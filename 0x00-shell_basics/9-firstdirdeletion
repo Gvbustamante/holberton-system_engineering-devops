@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -d /tmp/holberton
+
