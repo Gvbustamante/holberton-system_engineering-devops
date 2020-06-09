@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $BETTY="Holberton"
+BETTY=Holberton
+echo $BETTY
